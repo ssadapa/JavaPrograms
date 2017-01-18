@@ -24,6 +24,9 @@ public class Autocars {
 		String name = BMW.getCarName();
 		System.out.println(name);
 		
+		String hyundaicar = Hyundai.getCarName();
+		System.out.println(hyundaicar);
+		
 	}
 
 }
