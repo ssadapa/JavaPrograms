@@ -25,7 +25,7 @@ public class Autocars {
 		System.out.println(name);
 		
 		String hyundaicar = Hyundai.getCarName();
-		System.out.println(hyundaicar);
+		
 		
 	}
 
